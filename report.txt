@@ -1,0 +1,15 @@
+SOLVE SAT WITH RSAT
+
+1. UNSATISFIABLE
+2. SATISFIABLE
+3. This gives us an indication that graph 1 has a minimum number of colors required to properly color this graph.
+That number is 4, because k=3 results in unsatisfiable and k=4 is statisfiable, which provides us with a solution to the graph coloring problem.
+A specified color assignment would be:
+Node 1 has color 1
+Node 2 has color 2
+Node 3 has color 3
+Node 4 has color 1
+Node 5 has color 2
+Node 6 has color 3
+Node 7 has color 4
+4. the minimum number of colors required to properly color this graph is k = 4.
